@@ -1,0 +1,14 @@
+{
+  "episodios": 20000,
+  "execucoes": 5,
+  "tentativas": 100,
+  "alpha": 0.6,
+  "alpha_decay": 0.01,
+  "alpha_power": 0.6,
+  "gamma": 0.99,
+  "epsilon_start": 1.0,
+  "epsilon_min": 0.005,
+  "epsilon_decay": 0.9995,
+  "seed": 2026,
+  "janela_media": 100
+}
